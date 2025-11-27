@@ -1,5 +1,9 @@
 # MegaSenaGH 🎲
 
+<p align="center">
+  <img width="458" height="850" alt="App 1" src="https://github.com/user-attachments/assets/cf0484d7-45fa-4289-9b97-ed40cb502d3e" />
+</p>
+
 Aplicativo Android em Kotlin que gera jogos aleatórios da Mega-Sena.
 
 ## 🧠 Funcionalidades
@@ -29,4 +33,4 @@ Aplicativo Android em Kotlin que gera jogos aleatórios da Mega-Sena.
 - Lógica de programação com Kotlin
 - Manipulação de números aleatórios
 - Armazenamento simples de dados no Android
-<img width="458" height="850" alt="App 1" src="https://github.com/user-attachments/assets/cf0484d7-45fa-4289-9b97-ed40cb502d3e" />
+
